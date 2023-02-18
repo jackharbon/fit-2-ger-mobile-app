@@ -33,7 +33,7 @@
     <img src="media/logo.png" alt="Logo" width="442" height="236">
   </a>
 
-<h3 align="center">FIT-2-GER</h3>
+<h1 align="center">FIT-2-GER</h1>
 
   <p align="center">
     Mobile app project in Flutter/Dart.
