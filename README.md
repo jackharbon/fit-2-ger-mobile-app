@@ -38,7 +38,7 @@
   <p align="center">
     Mobile app project in Flutter/Dart.
     <br />
-    <a href="https://www.figma.com/file/MQIL0BI0Rwy2cM1FLrst5r/Fit2ger?node-id=448%3A155081&t=4lC9MhIlZtxGgNpf-1"><strong>View Figma Prototype »</strong></a>
+    <a href="https://www.figma.com/proto/MQIL0BI0Rwy2cM1FLrst5r/Fit2ger?page-id=1%3A16&node-id=39%3A135&viewport=-1606%2C-7563%2C0.88&scaling=scale-down&starting-point-node-id=19%3A774"><strong>View Figma Prototype »</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
