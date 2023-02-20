@@ -158,7 +158,7 @@ connect your device or use an emulator and type in the command 'flutter run' in 
    flutter run
    ```
 -  instructions on how to setup your android phone or an emulator can be found here:
-   https://docs.flutter.dev/get-started/install/linux
+   https://docs.flutter.dev/get-started/install
 
 #### 4. Back-end repo:
 
@@ -205,7 +205,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## License
 
-Distributed under the GNU GENERAL PUBLIC LICENSE License. See <a href="LICENSE.txt">`LICENSE.txt` </a> for more information.
+Distributed under the GNU GENERAL PUBLIC LICENSE License. See <a href="https://github.com/jackharbon/fit-2-ger-mobile-app/blob/main/LICENSE">`LICENSE.txt` </a> for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -223,9 +223,7 @@ Project Link: [https://github.com/jackharbon/fit-2-ger-mobile-app](https://githu
 
 ## Acknowledgments
 
--  []()
--  []()
--  []()
+-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -250,7 +248,7 @@ Project Link: [https://github.com/jackharbon/fit-2-ger-mobile-app](https://githu
 [github.com]: https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white
 [github-url]: https://github.com/
 [flutter.com]: https://img.shields.io/badge/flutter-1A1744?style=for-the-badge&logo=flutter&logoColor=45C9FA
-[flutter-url]: https://flutter.com
+[flutter-url]: https://flutter.dev
 [firebase.com]: https://img.shields.io/badge/firebase-039BE6?style=for-the-badge&logo=firebase&logoColor=FFA611
 [firebase-url]: https://firebase.com/
 [mongodb.com]: https://img.shields.io/badge/Mongodb-3F2C1B?style=for-the-badge&logo=mongodb&logoColor=62AC53
