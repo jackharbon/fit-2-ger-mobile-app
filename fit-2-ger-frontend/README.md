@@ -30,10 +30,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/jackharbon/fit-2-ger-mobile-app">
-    <img src="media/logo.png" alt="logo" width="442" height="236">
+    <img src="../media/logo.png" alt="logo" width="442" height="236">
   </a>
 
-<h1 align="center">FIT-2-GER</h1>
+<h1 align="center">FIT-2-GER FRONT-END</h1>
 
   <p align="center">
     Mobile app project in Flutter/Dart.
@@ -80,7 +80,7 @@
 
 ## About The Project
 
-<img src="media/project_screenshots.jpg" alt="screenshots">
+<img src="../media/project_screenshots.jpg" alt="screenshots">
 
 ### Planning the app
 
