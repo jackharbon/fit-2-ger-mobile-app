@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/jackharbon/fit-2-ger-mobile-app">
-    <img src="media/logo.png" alt="Logo" width="442" height="236">
+    <img src="media/logo.png" alt="logo" width="442" height="236">
   </a>
 
 <h1 align="center">FIT-2-GER</h1>
@@ -80,7 +80,7 @@
 
 ## About The Project
 
-<img src="media/project_screenshots.jpg" alt="Logo">
+<img src="media/project_screenshots.jpg" alt="screenshots">
 
 ### Planning the app
 
@@ -99,12 +99,12 @@
 
 `This app is for educational purposes only, not for commercial use.`
 
-Fit-2-ger is the mobile application for active outdoor amateur athlete who are looking for other people to exercise with. After login user can:
+Fit-2-ger is a mobile application for the active outdoor amateur athlete who is looking for other people to exercise with. After login the user can:
 
 -  register her/his own regular workouts
--  set up preffered searched new workouts
--  search and add to favourites other's workouts
--  send the message to other users
+-  set up prefered searched new workouts
+-  search and add other's workouts to favourites
+-  send a message to other users
 -  connect to other users to see their activities
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -223,7 +223,18 @@ Project Link: [https://github.com/jackharbon/fit-2-ger-mobile-app](https://githu
 
 ## Acknowledgments
 
--
+-  [Firebase](https://firebase.google.com/docs/auth)
+-  [Mongo DB](https://www.mongodb.com/)
+-  [Cyclic](https://www.cyclic.sh/)
+-  [Node.js](https://nodejs.org/en/)
+-  [NPM.js](https://www.npmjs.com/)
+-  [Fluter](https://flutter.dev/)
+-  [Dart](https://dart.dev/guides/language/language-tour)
+-  [Dart Pad](https://www.dartpad.dev/?)
+-  [Visual Studio Code](https://code.visualstudio.com/)
+-  [Android Studio](https://developer.android.com/studio)
+-  [Material Design](https://m3.material.io/)
+-  [Netlify](https://app.netlify.com/signup/start)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
